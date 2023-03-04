@@ -1,0 +1,1 @@
+{"M": 2, "taches": [{"id": 0, "label": "P1", "couleur": "#FF0000", "p": [10, 8]}, {"id": 1, "label": "P2", "couleur": "#FF00FF", "p": [14, 14]}, {"id": 2, "label": "P3", "couleur": "#00FF00", "p": [20, 6]}, {"id": 3, "label": "P4", "couleur": "#0000FF", "p": [20, 23]}], "ordonnancement": [3, 1, 0, 2]}
